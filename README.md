@@ -1,1 +1,1 @@
-gcc -l pcap main.c
+gcc -l pcap main.c helper.c
